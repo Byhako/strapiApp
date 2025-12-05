@@ -1,0 +1,12 @@
+./frontend/.next
+./frontend/node_modules
+./frontend/coverage
+./frontend/next-env.d.ts
+
+.backend/node_modules
+.backend/coverage
+.backend/.yarn/*
+.backend/.pnp.*
+.backend/yarn-error.log
+.backend/build
+.backend/dist
